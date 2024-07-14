@@ -1,0 +1,24 @@
+body{
+    background-image: url(asses/image/97.robot.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    position: relative;
+    
+    left: 150px;
+    top: 50px;
+    font-size: 28px;
+    font-family: "Playfair Display", serif ;
+    color: aliceblue;
+
+}
+.Natural{
+    position: relative;
+    
+}
+.Nombre{
+    position: relative;
+    bottom: 80px;
+}
